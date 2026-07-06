@@ -13,7 +13,6 @@
 - 🌦️ Also created **[Weather App](https://weather-j82w.onrender.com/)** – A real-time weather tracking application.
 - 🤖 Specializing in **Telegram Automation** using Pyrogram and Kurigram.
 - 💻 Eager to collaborate on interesting **Web Development** and **AI projects**.
-- ☕ Fun fact: My best coding breakthroughs often happen when I'm experimenting with new APIs!
 
 ---
 
@@ -32,19 +31,18 @@
 ### **Database & Deployment**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Harshupadhyay&theme=tokyonight&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Harshupadhyay&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Harshupadhyay&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Harshupadhyay&theme=tokyonight&show_icons=true&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Harshupadhyay&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <br>
+  <!-- Streak Stats fix -->
+  <img src="https://streak-stats.demolab.com?user=Dev-Harshupadhyay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -62,9 +60,5 @@
 ### ⭐ "Code is like humor. When you have to explain it, it's bad." ⭐
 
 <br>
-
-[![GitHub followers](https://img.shields.io/github/followers/Dev-Harshupadhyay?style=social)](https://github.com/Dev-Harshupadhyay)
-<br><br>
 **Thanks for visiting! Let's build something amazing together! 🚀**
-
 </div>
