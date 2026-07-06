@@ -1,65 +1,70 @@
-# Hi, I'm Harsh Upadhyay! 👋
+<div align="center">
+  
+# Hi there, I'm Harsh Upadhyay! 👋
 
-I am a 19-year-old developer and an incoming BCA student with a passion for building functional web applications and automation tools. I enjoy experimenting with APIs, database management, and creating seamless user experiences.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Aspiring+BCA+Student;Full-Stack+Developer;AI+Automation+Enthusiast;Always+Learning" alt="Typing SVG" />
 
-## 🚀 My Projects
+</div>
 
-### 🎬 Cinevood
-A comprehensive movie review platform where users can discover films and administrators have a dedicated panel to manage reviews and content.
-- **Key Features:** Dynamic movie fetching via APIs, CRUD functionality for admin review management, and a robust database backend.
-- **Live Demo:** [Cinevood](https://cinenvood.onrender.com/)
+## 🚀 About Me
+> **Passionate developer exploring web applications, automation, and AI-driven solutions.**
 
-### 🌦️ Weather App
-A real-time weather tracking application that provides accurate climate data.
-- **Key Features:** Integration with live weather APIs, responsive design, and intuitive data visualization.
-- **Live Demo:** [Weather Website](https://weather-j82w.onrender.com/)
-
-### 🤖 Telegram Bots
-I specialize in building automation bots for media management, specifically using the **Kurigram** and **Pyrogram** libraries. My bots are designed for high-efficiency file handling and automated task management.
+- 🎬 Currently building **[Cinevood](https://cinenvood.onrender.com/)** – A comprehensive movie review platform with admin management.
+- 🌦️ Also created **[Weather App](https://weather-j82w.onrender.com/)** – A real-time weather tracking application.
+- 🤖 Specializing in **Telegram Automation** using Pyrogram and Kurigram.
+- 💻 Eager to collaborate on interesting **Web Development** and **AI projects**.
+- ☕ Fun fact: My best coding breakthroughs often happen when I'm experimenting with new APIs!
 
 ---
 
-## 🌐 Portfolio
-You can find more about my work, technical skills, and projects here:
-[**View My Portfolio**](https://harsh-portfolio-mscb.onrender.com)
+## 🛠 Tech Arsenal
+
+### **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### **Backend & Automation**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### **Database & Deployment**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🛠 Tech Stack & Skills
-- **Web Development:** HTML, CSS, JavaScript (Node.js/Express)
-- **Database Management:** MongoDB/SQL
-- **API Integration:** RESTful APIs
-- **Automation:** Python (Pyrogram, Kurigram)
-- **Deployment:** Render, Vercel
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Harshupadhyay&theme=tokyonight&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Harshupadhyay&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Dev-Harshupadhyay&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=Dev-Harshupadhyay&theme=dark&hide_border=false" />
-  <br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dev-Harshupadhyay&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Dev-Harshupadhyay&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Harshupadhyay&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Dev-Harshupadhyay&icon=0&color=0" />
-  </a>
-</p>
+
+## ✍️ Random Dev Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ "Code is like humor. When you have to explain it, it's bad." ⭐
+
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/Dev-Harshupadhyay?style=social)](https://github.com/Dev-Harshupadhyay)
+<br><br>
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+</div>
