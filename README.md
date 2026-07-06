@@ -11,7 +11,7 @@
 
 - 🎬 Currently building **[Cinevood](https://cinenvood.onrender.com/)** – A comprehensive movie review platform with admin management.
 - 🌦️ Also created **[Weather App](https://weather-j82w.onrender.com/)** – A real-time weather tracking application.
-- 🤖 Specializing in **Telegram Automation** using Pyrogram and Kurigram.
+- 🤖 Automating tasks with **[@TIMEPASSQ_BOT](https://t.me/TIMEPASSQ_BOT)** – My personal Telegram bot for media and task management.
 - 💻 Eager to collaborate on interesting **Web Development** and **AI projects**.
 
 ---
@@ -41,8 +41,12 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Harshupadhyay&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
   <br>
-  <!-- Streak Stats fix -->
   <img src="https://streak-stats.demolab.com?user=Dev-Harshupadhyay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Harshupadhyay&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F8D847&area=true&hide_border=true" />
 </div>
 
 ---
