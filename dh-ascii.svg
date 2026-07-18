@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="220" viewBox="0 0 460 220" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17">
+<rect width="100%" height="100%" fill="transparent"/>
+<clipPath id="clip0">
+  <rect x="10" y="10" width="0" height="20">
+    <animate attributeName="width" from="0" to="440" begin="0.0s" dur="0.216s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip0)">
+  <text x="10" y="24" fill="#58a6ff" xml:space="preserve">█   █   ███   ████    ████  █   █       </text>
+</g>
+<rect x="10" y="10" width="9" height="16" fill="#7ee787" opacity="0">
+  <animate attributeName="x" from="10" to="450" begin="0.0s" dur="0.216s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" begin="0.0s" dur="0.216s" fill="freeze"/>
+</rect>
+<clipPath id="clip1">
+  <rect x="10" y="30" width="0" height="20">
+    <animate attributeName="width" from="0" to="440" begin="0.135s" dur="0.216s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip1)">
+  <text x="10" y="44" fill="#58a6ff" xml:space="preserve">█   █  █   █  █   █  █      █   █       </text>
+</g>
+<rect x="10" y="30" width="9" height="16" fill="#7ee787" opacity="0">
+  <animate attributeName="x" from="10" to="450" begin="0.135s" dur="0.216s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" begin="0.135s" dur="0.216s" fill="freeze"/>
+</rect>
+<clipPath id="clip2">
+  <rect x="10" y="50" width="0" height="20">
+    <animate attributeName="width" from="0" to="440" begin="0.27s" dur="0.216s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip2)">
+  <text x="10" y="64" fill="#58a6ff" xml:space="preserve">█████  █████  ████    ███   █████       </text>
+</g>
+<rect x="10" y="50" width="9" height="16" fill="#7ee787" opacity="0">
+  <animate attributeName="x" from="10" to="450" begin="0.27s" dur="0.216s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" begin="0.27s" dur="0.216s" fill="freeze"/>
+</rect>
+<clipPath id="clip3">
+  <rect x="10" y="70" width="0" height="20">
+    <animate attributeName="width" from="0" to="440" begin="0.405s" dur="0.216s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip3)">
+  <text x="10" y="84" fill="#58a6ff" xml:space="preserve">█   █  █   █  █ █        █  █   █       </text>
+</g>
+<rect x="10" y="70" width="9" height="16" fill="#7ee787" opacity="0">
+  <animate attributeName="x" from="10" to="450" begin="0.405s" dur="0.216s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" begin="0.405s" dur="0.216s" fill="freeze"/>
+</rect>
+<clipPath id="clip4">
+  <rect x="10" y="90" width="0" height="20">
+    <animate attributeName="width" from="0" to="440" begin="0.54s" dur="0.216s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip4)">
+  <text x="10" y="104" fill="#58a6ff" xml:space="preserve">█   █  █   █  █  █   ████   █   █       </text>
+</g>
+<rect x="10" y="90" width="9" height="16" fill="#7ee787" opacity="0">
+  <animate attributeName="x" from="10" to="450" begin="0.54s" dur="0.216s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" begin="0.54s" dur="0.216s" fill="freeze"/>
+</rect>
+<clipPath id="clip5">
+  <rect x="10" y="110" width="0" height="20">
+    <animate attributeName="width" from="0" to="440" begin="0.675s" dur="0.216s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip5)">
+  <text x="10" y="124" fill="#58a6ff" xml:space="preserve">                                        </text>
+</g>
+<rect x="10" y="110" width="9" height="16" fill="#7ee787" opacity="0">
+  <animate attributeName="x" from="10" to="450" begin="0.675s" dur="0.216s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" begin="0.675s" dur="0.216s" fill="freeze"/>
+</rect>
+<clipPath id="clip6">
+  <rect x="10" y="130" width="0" height="20">
+    <animate attributeName="width" from="0" to="440" begin="0.81s" dur="0.216s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip6)">
+  <text x="10" y="144" fill="#58a6ff" xml:space="preserve">┌────────────────────────────────────┐  </text>
+</g>
+<rect x="10" y="130" width="9" height="16" fill="#7ee787" opacity="0">
+  <animate attributeName="x" from="10" to="450" begin="0.81s" dur="0.216s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" begin="0.81s" dur="0.216s" fill="freeze"/>
+</rect>
+<clipPath id="clip7">
+  <rect x="10" y="150" width="0" height="20">
+    <animate attributeName="width" from="0" to="440" begin="0.945s" dur="0.216s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip7)">
+  <text x="10" y="164" fill="#58a6ff" xml:space="preserve">│  full-stack developer               │ </text>
+</g>
+<rect x="10" y="150" width="9" height="16" fill="#7ee787" opacity="0">
+  <animate attributeName="x" from="10" to="450" begin="0.945s" dur="0.216s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" begin="0.945s" dur="0.216s" fill="freeze"/>
+</rect>
+<clipPath id="clip8">
+  <rect x="10" y="170" width="0" height="20">
+    <animate attributeName="width" from="0" to="440" begin="1.08s" dur="0.216s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip8)">
+  <text x="10" y="184" fill="#58a6ff" xml:space="preserve">│  web apps · automation · AI tinkering│</text>
+</g>
+<rect x="10" y="170" width="9" height="16" fill="#7ee787" opacity="0">
+  <animate attributeName="x" from="10" to="450" begin="1.08s" dur="0.216s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" begin="1.08s" dur="0.216s" fill="freeze"/>
+</rect>
+<clipPath id="clip9">
+  <rect x="10" y="190" width="0" height="20">
+    <animate attributeName="width" from="0" to="440" begin="1.215s" dur="0.216s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip9)">
+  <text x="10" y="204" fill="#58a6ff" xml:space="preserve">└────────────────────────────────────┘  </text>
+</g>
+<rect x="10" y="190" width="9" height="16" fill="#7ee787" opacity="0">
+  <animate attributeName="x" from="10" to="450" begin="1.215s" dur="0.216s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" begin="1.215s" dur="0.216s" fill="freeze"/>
+</rect>
+</svg>
