@@ -4,7 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Aspiring+BCA+Student;Full-Stack+Developer;AI+Automation+Enthusiast;Always+Learning" alt="Typing SVG" />
 
+<sub>Building things on the web, one commit at a time.</sub>
+
 </div>
+
+<br>
 
 ## 🚀 About Me
 
@@ -30,6 +34,18 @@
     <td valign="top"><img src="./info-card.svg" width="490" alt="neofetch style info card" /></td>
   </tr>
 </table>
+
+<br><br>
+
+<h3><code>harsh@github ~ $ ./stack.sh</code></h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mongodb,github" alt="tech stack icons" />
+
+<br><br>
+
+<h3><code>harsh@github ~ $ ./connect.sh</code></h3>
+
+<a href="https://profotilo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=36BCF7" alt="Portfolio" /></a>
+<a href="https://t.me/TIMEPASSQ_BOT"><img src="https://img.shields.io/badge/Telegram_Bot-000000?style=for-the-badge&logo=telegram&logoColor=36BCF7" alt="Telegram Bot" /></a>
 
 </div>
 
@@ -59,3 +75,11 @@
 - Trigger the workflow once by hand from the **Actions** tab (`workflow_dispatch`) to confirm it commits a fresh heatmap.
 
 </details>
+
+<br>
+
+<div align="center">
+
+⭐️ **If you found this profile setup cool, feel free to star the repo!**
+
+</div>
