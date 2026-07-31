@@ -44,7 +44,7 @@
 
 <h3><code>harsh@github ~ $ ./connect.sh</code></h3>
 
-<a href="https://profotilo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=36BCF7" alt="Portfolio" /></a>
+<a href="https://pmharshuu.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=36BCF7" alt="Portfolio" /></a>
 <a href="https://t.me/TIMEPASSQ_BOT"><img src="https://img.shields.io/badge/Telegram_Bot-000000?style=for-the-badge&logo=telegram&logoColor=36BCF7" alt="Telegram Bot" /></a>
 
 </div>
