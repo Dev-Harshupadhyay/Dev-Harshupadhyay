@@ -1,0 +1,3 @@
+# No third-party packages required — every script here uses only the
+# Python standard library (urllib, json, re, datetime, pathlib) so the
+# GitHub Actions runner needs nothing extra installed.
