@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 740">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#ffffff"/><stop offset=".55" stop-color="#faf5ff"/><stop offset="1" stop-color="#eef2ff"/>
+  </linearGradient>
+  <linearGradient id="pink" x1="0" x2="1">
+    <stop stop-color="#60a5fa"/><stop offset=".5" stop-color="#7dd3fc"/><stop offset="1" stop-color="#60a5fa"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="clip"><rect x="8" y="8" width="1264" height="724" rx="34"/></clipPath>
+</defs>
+
+<rect width="1280" height="740" rx="38" fill="url(#bg)"/>
+<g clip-path="url(#clip)">
+  <circle cx="1100" cy="150" r="180" fill="#3b82f6" opacity=".12"/>
+  <circle cx="180" cy="650" r="230" fill="#2563eb" opacity=".08"/>
+
+  <!-- anime-style developer -->
+  <g transform="translate(735 105)">
+    <ellipse cx="265" cy="530" rx="210" ry="30" fill="#000" opacity=".3"/>
+    <path d="M115 510 Q95 380 160 310 Q245 260 330 315 Q395 380 385 510Z" fill="#1f2937"/>
+    <path d="M175 305 Q180 250 250 238 Q320 250 335 310 L315 375 Q250 410 185 370Z" fill="#f3c7a9"/>
+    <path d="M170 285 Q170 205 250 190 Q340 205 340 290 L315 270 Q300 220 245 230 Q205 220 185 285Z" fill="#111c2f"/>
+    <path d="M185 255 Q210 220 245 225 Q295 215 320 270 L300 285 Q260 250 210 275Z" fill="#17243a"/>
+    <rect x="205" y="292" width="38" height="18" rx="8" fill="none" stroke="#29233a" stroke-width="5"/>
+    <rect x="265" y="292" width="38" height="18" rx="8" fill="none" stroke="#29233a" stroke-width="5"/>
+    <path d="M243 301h22" stroke="#29233a" stroke-width="4"/>
+    <path d="M240 335 Q260 350 280 335" fill="none" stroke="#9f4f76" stroke-width="4"/>
+    <path d="M170 360 Q250 325 340 365 L355 475 L150 475Z" fill="#f4f4f5"/>
+    <path d="M205 360 L245 415 L290 360" fill="#facc15"/>
+    <path d="M145 465 L110 535" stroke="#f3c7a9" stroke-width="32" stroke-linecap="round"/>
+    <path d="M350 465 L410 515" stroke="#f3c7a9" stroke-width="32" stroke-linecap="round"/>
+    <rect x="180" y="445" width="165" height="82" rx="10" fill="#07111f" stroke="#3b82f6" stroke-width="4"/>
+    <path d="M195 460h135v52H195z" fill="#0a1830"/>
+    <path d="M207 478h48m-48 15h75m-75 15h38" stroke="#7dd3fc" stroke-width="4" opacity=".8"/>
+    <path d="M155 500 L105 625" stroke="#2563eb" stroke-width="58" stroke-linecap="round"/>
+    <path d="M345 500 L395 625" stroke="#2563eb" stroke-width="58" stroke-linecap="round"/>
+    <path d="M75 640h100M350 640h100" stroke="#07111f" stroke-width="30" stroke-linecap="round"/>
+  </g>
+
+  <!-- terminal -->
+  <g font-family="monospace">
+    <rect x="70" y="65" width="585" height="55" rx="16" fill="#ffffff" stroke="#1d4ed8"/>
+    <circle cx="98" cy="92" r="6" fill="#60a5fa"/>
+    <text x="120" y="99" fill="#bfdbfe" font-size="20">harsh@dev:~$ cat README.md</text>
+    <text x="590" y="99" fill="#60a5fa" font-size="20">▋</text>
+  </g>
+
+  <text x="70" y="205" font-family="Arial,sans-serif" font-weight="900" font-size="82" fill="url(#pink)">HARSH</text>
+  <text x="75" y="252" font-family="Arial,sans-serif" font-size="25" fill="#164e7a">UPADHYAY</text>
+  <text x="72" y="310" font-family="monospace" font-size="24" fill="#93c5fd">&gt; BCA Student • Developer • Builder</text>
+
+  <rect x="70" y="350" width="585" height="105" rx="22" fill="#ffffff" opacity=".06" stroke="#7dd3fc" opacity=".65"/>
+  <text x="98" y="392" font-family="Arial,sans-serif" font-size="20" fill="#164e7a">“Code is like humor.</text>
+  <text x="98" y="425" font-family="Arial,sans-serif" font-size="20" fill="#164e7a">When you have to explain it, it’s bad.”</text>
+
+  <g font-family="monospace" font-size="15">
+    <rect x="70" y="485" width="110" height="38" rx="19" fill="#12345b"/><text x="91" y="510" fill="#fff">JavaScript</text>
+    <rect x="190" y="485" width="88" height="38" rx="19" fill="#12345b"/><text x="214" y="510" fill="#fff">Python</text>
+    <rect x="288" y="485" width="70" height="38" rx="19" fill="#12345b"/><text x="306" y="510" fill="#fff">HTML</text>
+    <rect x="368" y="485" width="70" height="38" rx="19" fill="#12345b"/><text x="387" y="510" fill="#fff">CSS</text>
+    <rect x="448" y="485" width="95" height="38" rx="19" fill="#12345b"/><text x="470" y="510" fill="#fff">GitHub</text>
+  </g>
+
+  <text x="70" y="590" font-family="monospace" font-size="18" fill="#93c5fd">const mission = “build • learn • repeat”;</text>
+  <text x="70" y="630" font-family="Arial,sans-serif" font-size="18" fill="#475569">Web • Backend • Automation • AI</text>
+
+  <!-- scanner -->
+  <rect x="0" y="0" width="1280" height="5" fill="#7dd3fc" opacity=".8">
+    <animate attributeName="y" values="0;735;0" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <g fill="#93c5fd" opacity=".7">
+    <circle cx="650" cy="80" r="3"><animate attributeName="cy" values="80;35;80" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="600" r="3"><animate attributeName="cy" values="600;550;600" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1200" cy="420" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+</g>
+<rect x="8" y="8" width="1264" height="724" rx="34" fill="none" stroke="#3b82f6" stroke-width="2" opacity=".6"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 650">
+<defs>
+ <linearGradient id="strap" x1="0" x2="1"><stop stop-color="#2563eb"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+ <linearGradient id="card" y1="0" y2="1"><stop stop-color="#071a33"/><stop offset="1" stop-color="#020817"/></linearGradient>
+ <filter id="g"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<path d="M155 0v115q0 48 55 48t55-48V0" fill="none" stroke="url(#strap)" stroke-width="25"/>
+<circle cx="210" cy="170" r="18" fill="none" stroke="#d1d5db" stroke-width="8"/>
+<rect x="198" y="178" width="24" height="32" rx="7" fill="#9ca3af"/>
+<rect x="45" y="195" width="330" height="405" rx="28" fill="url(#card)" stroke="#60a5fa" stroke-width="3" filter="url(#g)"/>
+<circle cx="210" cy="300" r="82" fill="#0b1d35" stroke="#7dd3fc" stroke-width="5"/>
+<!-- male anime portrait -->
+<circle cx="210" cy="300" r="68" fill="#f3c7a9"/>
+<path d="M145 285q5-85 70-85t70 85q-30-42-70-35q-43-7-70 35" fill="#111c2f"/>
+<path d="M165 294h32m26 0h32m-32 0h0" stroke="#12345b" stroke-width="6"/>
+<path d="M180 335q30 22 60 0" fill="none" stroke="#9f4f76" stroke-width="5"/>
+<path d="M135 265q25-70 75-70t75 70" fill="none" stroke="#07111f" stroke-width="18"/>
+<text x="210" y="420" text-anchor="middle" fill="#fff" font-family="Arial" font-size="31" font-weight="800">HARSH</text>
+<text x="210" y="449" text-anchor="middle" fill="#7dd3fc" font-family="monospace" font-size="16">DEVELOPER</text>
+<text x="210" y="476" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="14">@Dev-Harshupadhyay</text>
+<rect x="95" y="505" width="230" height="43" rx="7" fill="#07111f" stroke="#3b82f6"/>
+<g stroke="#93c5fd" stroke-width="3">
+ <path d="M110 510v33m8-33v33m14-33v33m7-33v33m13-33v33m8-33v33m20-33v33m7-33v33m15-33v33m11-33v33m18-33v33m8-33v33m15-33v33"/>
+</g>
+<rect x="45" y="195" width="330" height="405" rx="28" fill="none" stroke="#fff" stroke-width="2" opacity=".2">
+ <animate attributeName="opacity" values=".1;.6;.1" dur="2.8s" repeatCount="indefinite"/>
+</rect>
+<text x="210" y="580" text-anchor="middle" fill="#64748b" font-family="monospace" font-size="11">BCA • WEB • AUTOMATION • AI</text>
+</svg>
