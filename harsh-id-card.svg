@@ -1,0 +1,76 @@
+<svg width="420" height="260" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Harsh Upadhyay developer ID card">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1119"/>
+      <stop offset="100%" stop-color="#080a0f"/>
+    </linearGradient>
+    <linearGradient id="stripe" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4f8fe8"/>
+      <stop offset="100%" stop-color="#2857a8"/>
+    </linearGradient>
+    <radialGradient id="glowID" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#3a7fe0" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#3a7fe0" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="idsoft"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+
+  <rect x="4" y="4" width="412" height="252" rx="18" fill="url(#cardbg)" stroke="#202836" stroke-width="1.5"/>
+  <rect x="4" y="4" width="412" height="252" rx="18" fill="url(#glowID)"/>
+
+  <!-- top stripe -->
+  <rect x="4" y="4" width="412" height="8" rx="4" fill="url(#stripe)"/>
+
+  <!-- header -->
+  <text x="28" y="40" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="10.5" letter-spacing="3" fill="#5b8def">ELITE DEV ACADEMY</text>
+  <text x="28" y="54" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="8.5" letter-spacing="2" fill="#4a5568">MEMBER IDENTIFICATION</text>
+
+  <!-- avatar frame -->
+  <g transform="translate(28,68)">
+    <rect width="86" height="98" rx="10" fill="#0a0d13" stroke="#232c3b" stroke-width="1"/>
+    <!-- calm silhouette -->
+    <circle cx="43" cy="38" r="20" fill="#161c27"/>
+    <path d="M14 96 C 14 68, 26 54, 43 54 C 60 54, 72 68, 72 96 Z" fill="#161c27"/>
+    <circle cx="49" cy="38" r="1.3" fill="#5b8def">
+      <animate attributeName="opacity" values="1;0.3;1" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <!-- scan line -->
+    <rect x="0" y="0" width="86" height="2" fill="#5b8def" opacity="0.35">
+      <animate attributeName="y" values="0;98;0" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- info -->
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#e6ebf2">
+    <text x="130" y="90" font-size="19" font-weight="700" letter-spacing="0.5">HARSH UPADHYAY</text>
+    <text x="130" y="110" font-size="11" letter-spacing="1.5" fill="#7c8aa0">BCA STUDENT</text>
+    <text x="130" y="126" font-size="11" letter-spacing="1.5" fill="#7c8aa0">DEVELOPER</text>
+
+    <text x="130" y="152" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="9.5" fill="#4a5568">GITHUB</text>
+    <text x="130" y="166" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="11.5" fill="#5b8def">Dev-Harshupadhyay</text>
+
+    <text x="130" y="188" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="9.5" fill="#4a5568">STATUS</text>
+    <g transform="translate(130,196)">
+      <circle cx="4" cy="0" r="4" fill="#4f8fe8">
+        <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="14" y="4" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="11.5" fill="#8fc2ff">LEARNING / BUILDING</text>
+    </g>
+  </g>
+
+  <!-- decorative id code -->
+  <text x="28" y="200" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="9" fill="#38424f" letter-spacing="1">ID// HU-2026-DEV</text>
+
+  <!-- QR-style decorative block -->
+  <g transform="translate(340,190)" fill="#39434f">
+    <rect x="0" y="0" width="6" height="6"/><rect x="10" y="0" width="6" height="6"/><rect x="24" y="0" width="6" height="6"/>
+    <rect x="0" y="10" width="6" height="6"/><rect x="18" y="10" width="6" height="6"/>
+    <rect x="6" y="18" width="6" height="6"/><rect x="24" y="18" width="6" height="6"/>
+    <rect x="0" y="26" width="6" height="6"/><rect x="12" y="26" width="6" height="6"/><rect x="24" y="26" width="6" height="6"/>
+  </g>
+
+  <!-- footer divider -->
+  <line x1="28" y1="222" x2="392" y2="222" stroke="#1c2431" stroke-width="1"/>
+  <text x="28" y="240" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="8.5" letter-spacing="2" fill="#3a4452">VALID WHILE CURIOUS</text>
+  <text x="392" y="240" text-anchor="end" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="8.5" letter-spacing="1" fill="#3a4452">github.com/Dev-Harshupadhyay</text>
+</svg>

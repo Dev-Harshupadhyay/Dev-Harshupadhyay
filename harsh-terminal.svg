@@ -1,0 +1,60 @@
+<svg width="520" height="300" viewBox="0 0 520 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal card: whoami Harsh Upadhyay">
+  <defs>
+    <linearGradient id="termbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1119"/>
+      <stop offset="100%" stop-color="#080a0f"/>
+    </linearGradient>
+    <radialGradient id="termglow" cx="15%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#4f8fe8" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#4f8fe8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="2" y="2" width="516" height="296" rx="14" fill="url(#termbg)" stroke="#1c2431" stroke-width="1.5"/>
+  <rect x="2" y="2" width="516" height="296" rx="14" fill="url(#termglow)"/>
+
+  <!-- titlebar -->
+  <rect x="2" y="2" width="516" height="34" rx="14" fill="#0f131b"/>
+  <rect x="2" y="20" width="516" height="16" fill="#0f131b"/>
+  <circle cx="24" cy="19" r="5" fill="#3a4657"/>
+  <circle cx="42" cy="19" r="5" fill="#3a4657"/>
+  <circle cx="60" cy="19" r="5" fill="#3a4657"/>
+  <text x="260" y="24" text-anchor="middle" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="11" fill="#586479" letter-spacing="1">harsh@github: ~</text>
+  <line x1="2" y1="36" x2="518" y2="36" stroke="#1c2431" stroke-width="1"/>
+
+  <g font-family="'Cascadia Code','Fira Code',Consolas,monospace" fill="#c7d1e0">
+    <text x="24" y="66" font-size="14"><tspan fill="#5b8def">harsh@github</tspan><tspan fill="#586479">:~$ </tspan><tspan fill="#e6ebf2">whoami</tspan></text>
+
+    <text x="24" y="96" font-size="17" font-weight="700" fill="#eef2f7">Harsh Upadhyay</text>
+
+    <text x="24" y="126" font-size="11" letter-spacing="2" fill="#4f8fe8">ROLE</text>
+    <text x="24" y="142" font-size="13" fill="#a9b4c6">BCA Student</text>
+
+    <text x="24" y="168" font-size="11" letter-spacing="2" fill="#4f8fe8">FOCUS</text>
+    <text x="38" y="186" font-size="12.5" fill="#a9b4c6">Web Development</text>
+    <text x="38" y="204" font-size="12.5" fill="#a9b4c6">Backend Architecture</text>
+    <text x="38" y="222" font-size="12.5" fill="#a9b4c6">AI Automation</text>
+    <text x="38" y="240" font-size="12.5" fill="#a9b4c6">System Design</text>
+    <g transform="translate(24,178)" fill="#4f8fe8">
+      <circle cx="0" cy="0" r="2"/><circle cx="0" cy="18" r="2"/><circle cx="0" cy="36" r="2"/><circle cx="0" cy="54" r="2"/>
+    </g>
+
+    <text x="290" y="126" font-size="11" letter-spacing="2" fill="#4f8fe8">STATUS</text>
+    <g transform="translate(290,138)">
+      <circle cx="4" cy="0" r="4" fill="#4f8fe8">
+        <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="14" y="4" font-size="12.5" fill="#8fc2ff">Learning &amp; Building</text>
+    </g>
+
+    <text x="290" y="168" font-size="11" letter-spacing="2" fill="#4f8fe8">PHILOSOPHY</text>
+    <text x="290" y="186" font-size="12" fill="#a9b4c6">Build. Break.</text>
+    <text x="290" y="202" font-size="12" fill="#a9b4c6">Understand. Improve.</text>
+
+    <line x1="24" y1="256" x2="496" y2="256" stroke="#1c2431" stroke-width="1"/>
+    <text x="24" y="278" font-size="13"><tspan fill="#5b8def">harsh@github</tspan><tspan fill="#586479">:~$ </tspan><tspan fill="#e6ebf2">_</tspan></text>
+    <rect x="118" y="266" width="8" height="14" fill="#8fc2ff">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
