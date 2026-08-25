@@ -1,0 +1,35 @@
+name: Generate contribution snake
+
+# Regenerates harsh-snake.svg from the real contribution graph using the
+# free, open-source Platane/snk action (https://github.com/Platane/snk).
+# No paid service, no token beyond the workflow's own GITHUB_TOKEN.
+
+on:
+  schedule:
+    - cron: "0 5 * * 1"   # weekly, Monday 05:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG (dark/blue themed)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Dev-Harshupadhyay
+          outputs: |
+            harsh-snake.svg?palette=github-dark&color_snake=%235b9dff
+
+      - name: Commit snake if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add harsh-snake.svg
+          git diff --cached --quiet || git commit -m "chore: refresh contribution snake [automated]"
+          git push
