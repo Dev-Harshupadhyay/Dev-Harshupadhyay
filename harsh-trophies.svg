@@ -1,0 +1,26 @@
+<svg width="620" height="130" viewBox="0 0 620 130" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Milestones for Harsh Upadhyay">
+<defs><linearGradient id="trophyBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0d13"/><stop offset="1" stop-color="#0d1420"/></linearGradient></defs>
+<rect width="620" height="130" rx="12" fill="url(#trophyBg)"/>
+<text x="24" y="28" font-family="ui-monospace, 'JetBrains Mono', Menlo, monospace" font-size="13" letter-spacing="1.5" fill="#7ec8ff">MILESTONES</text>
+<g transform="translate(24,50)" opacity="1">
+<rect width="130" height="60" rx="8" fill="#12161d" stroke="#7ec8ff" stroke-width="1.5"/>
+<text x="10" y="24" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1" fill="#7ec8ff">FIRST REPO</text>
+<text x="10" y="44" font-family="ui-monospace, monospace" font-size="12" fill="#dbe6f0">1+ repos</text>
+</g>
+<g transform="translate(166,50)" opacity="1">
+<rect width="130" height="60" rx="8" fill="#12161d" stroke="#7ec8ff" stroke-width="1.5"/>
+<text x="10" y="24" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1" fill="#7ec8ff">BUILDER</text>
+<text x="10" y="44" font-family="ui-monospace, monospace" font-size="12" fill="#dbe6f0">5+ repos</text>
+</g>
+<g transform="translate(308,50)" opacity="0.5">
+<rect width="130" height="60" rx="8" fill="#12161d" stroke="#2a3446" stroke-width="1.5"/>
+<text x="10" y="24" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1" fill="#2a3446">STARRED</text>
+<text x="10" y="44" font-family="ui-monospace, monospace" font-size="12" fill="#dbe6f0">1+ stars</text>
+</g>
+<g transform="translate(450,50)" opacity="1">
+<rect width="130" height="60" rx="8" fill="#12161d" stroke="#7ec8ff" stroke-width="1.5"/>
+<text x="10" y="24" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1" fill="#7ec8ff">CONNECTED</text>
+<text x="10" y="44" font-family="ui-monospace, monospace" font-size="12" fill="#dbe6f0">1+ followers</text>
+</g>
+<rect x="1" y="1" width="618" height="128" rx="11" fill="none" stroke="#1c2330" stroke-width="1"/>
+</svg>
