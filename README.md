@@ -1,68 +1,85 @@
 <div align="center">
-  
+
 # Hi there, I'm Harsh Upadhyay! 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Aspiring+BCA+Student;Full-Stack+Developer;AI+Automation+Enthusiast;Always+Learning" alt="Typing SVG" />
 
+<sub>Building things on the web, one commit at a time.</sub>
+
 </div>
-
-## 🚀 About Me
-> **Passionate developer exploring web applications, automation, and AI-driven solutions.**
-
-- 🎬 Currently building **[Cinevood](https://cinenvood.onrender.com/)** – A comprehensive movie review platform with admin management.
-- 🌦️ Also created **[Weather App](https://weather-j82w.onrender.com/)** – A real-time weather tracking application.
-- 🤖 Automating tasks with **[@TIMEPASSQ_BOT](https://t.me/TIMEPASSQ_BOT)** – My personal Telegram bot for media and task management.
-- 💻 Eager to collaborate on interesting **Web Development** and **AI projects**.
-
----
-
-## 🛠 Tech Arsenal
-
-### **Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### **Backend & Automation**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### **Database & Deployment**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Harshupadhyay&theme=tokyonight&show_icons=true&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Harshupadhyay&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Dev-Harshupadhyay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Harshupadhyay&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F8D847&area=true&hide_border=true" />
-</div>
-
----
-
-## ✍️ Random Dev Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<div align="center">
-  
-### ⭐ "Code is like humor. When you have to explain it, it's bad." ⭐
 
 <br>
-**Thanks for visiting! Let's build something amazing together! 🚀**
+
+## 🚀 About Me
+
+> **Passionate developer exploring web applications, automation, and AI-driven solutions.**
+
+- 🎬 Currently building **[Cinevood](https://cinenvood.onrender.com/)** – a comprehensive movie review platform with admin management.
+- 🌦️ Also created **[Weather App](https://weather-j82w.onrender.com/)** – a real-time weather tracking application.
+- 🤖 Automating tasks with **[@TIMEPASSQ_BOT](https://t.me/TIMEPASSQ_BOT)** – my personal Telegram bot for media and task management.
+
+<br>
+
+<div align="center">
+
+<h3><code>harsh@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="animated contribution heatmap" />
+
+<br><br>
+
+<h3><code>harsh@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./dh-ascii.svg" width="370" alt="ascii banner" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="neofetch style info card" /></td>
+  </tr>
+</table>
+
+<br><br>
+
+<h3><code>harsh@github ~ $ ./stack.sh</code></h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mongodb,github" alt="tech stack icons" />
+
+<br><br>
+
+<h3><code>harsh@github ~ $ ./connect.sh</code></h3>
+
+<a href="https://pmharshuu.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=36BCF7" alt="Portfolio" /></a>
+<a href="https://t.me/TIMEPASSQ_BOT"><img src="https://img.shields.io/badge/Telegram_Bot-000000?style=for-the-badge&logo=telegram&logoColor=36BCF7" alt="Telegram Bot" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Every graphic above is a self-contained animated SVG — no third-party stats service, no token, no JavaScript. The heatmap re-scrapes and re-renders itself daily via GitHub Actions.`
+
+</div>
+
+<br>
+
+<details>
+<summary>🛠️ How this stays up to date</summary>
+
+<br>
+
+- `contrib-heatmap.svg` is regenerated every day at ~06:17 UTC by `.github/workflows/update-profile-art.yml`, which runs `scripts/fetch_contributions.py` (scrapes the public `github.com/users/<you>/contributions` page, no PAT needed) and `scripts/render_heatmap_svg.py`, then commits the result.
+- `dh-ascii.svg` and `info-card.svg` are static — regenerate them locally only when your photo or bio changes:
+  ```
+  pip install -r scripts/requirements.txt
+  python scripts/make_ascii_svg.py
+  python scripts/make_info_card.py
+  ```
+- To swap the placeholder ASCII banner for a real photo-derived portrait, see the pipeline documented in `scripts/prep_photo.py`.
+- Trigger the workflow once by hand from the **Actions** tab (`workflow_dispatch`) to confirm it commits a fresh heatmap.
+
+</details>
+
+<br>
+
+<div align="center">
+
+⭐️ **If you found this profile setup cool, feel free to star the repo!**
+
 </div>
