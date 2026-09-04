@@ -1,168 +1,68 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./harsh-banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./harsh-banner-light.svg">
-  <img src="./harsh-banner.svg" alt="Harsh Upadhyay — BCA student and web developer">
-</picture>
-
-<br>
-
 <div align="center">
+  
+# Hi there, I'm Harsh Upadhyay! 👋
 
-### 🔭 Currently building **Chhath Geet** — a devotional music platform for Chhath Puja
-### 🌱 Currently learning — React internals, backend systems, automation
-### 💬 Ask me about — React, Vite, JavaScript, Python, or building things that ship
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Aspiring+BCA+Student;Full-Stack+Developer;AI+Automation+Enthusiast;Always+Learning" alt="Typing SVG" />
 
 </div>
 
-<br>
+## 🚀 About Me
+> **Passionate developer exploring web applications, automation, and AI-driven solutions.**
 
-## About Me
+- 🎬 Currently building **[Cinevood](https://cinenvood.onrender.com/)** – A comprehensive movie review platform with admin management.
+- 🌦️ Also created **[Weather App](https://weather-j82w.onrender.com/)** – A real-time weather tracking application.
+- 🤖 Automating tasks with **[@TIMEPASSQ_BOT](https://t.me/TIMEPASSQ_BOT)** – My personal Telegram bot for media and task management.
+- 💻 Eager to collaborate on interesting **Web Development** and **AI projects**.
 
-> BCA student exploring web development, backend systems, automation and AI-powered applications.
+---
 
-- 🎵 **[Chhath Geet](https://github.com/Dev-Harshupadhyay/Chhath-puja)** — my flagship project: a
-  premium Chhath Puja devotional music platform. 37 verified songs, a full music-player
-  experience, the four days of Chhath, curated playlists, and a hand-built design system.
-- 🎬 **[Cinevood](https://cinenvood.onrender.com/)** — a movie review platform with admin
-  management.
-- 🌦️ **[Weather App](https://weather-j82w.onrender.com/)** — real-time weather tracking.
-- 🤖 **[@TIMEPASSQ_BOT](https://t.me/TIMEPASSQ_BOT)** — a personal Telegram bot for media and task
-  automation.
-- 🌱 Still learning — this profile doesn't claim professional experience, seniority, or
-  certifications that aren't real.
+## 🛠 Tech Arsenal
 
-<br>
+### **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## ⭐ Featured Project
+### **Backend & Automation**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### **Database & Deployment**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dev-Harshupadhyay/Chhath-puja/main/docs/banner.jpg" alt="Chhath Geet — devotees offering arghya to the rising sun" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Harshupadhyay&theme=tokyonight&show_icons=true&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Harshupadhyay&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Dev-Harshupadhyay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br>
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Harshupadhyay&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F8D847&area=true&hide_border=true" />
+</div>
 
-### [छठ गीत · Chhath Geet](https://github.com/Dev-Harshupadhyay/Chhath-puja)
+---
 
-**“सूर्य देव की आराधना, लोकगीतों की मिठास।”** — A premium listening experience for the folk songs
-of Chhath Puja: Spotify-grade playback interaction, Indian devotional cultural identity, and Chhath
-ghat visual storytelling.
+## ✍️ Random Dev Wisdom
 
-- 🎧 **Real player** — sticky bar + full-screen now-playing, driven by the YouTube IFrame API
-  (true play/pause/seek/volume, not a passive embed), with queue drawer, favourites and resume
-- 🔎 **Discovery** — instant search, sort, and filters by artist, mood and Chhath day
-- 📅 **The Four Days** — Nahay Khay, Kharna, Sandhya Arghya and Usha Arghya as an interactive
-  ritual guide, each with its own songs
-- 🌅 **Moods** — Morning / Evening / Night repaint the entire interface
-- 📦 **Integrity** — every one of the 37 songs verified playable against YouTube; no invented
-  metadata, no fake lyrics, no hosted audio
-- ⚡ **Performance** — images 14.7 MB → 1.8 MB, route-level code splitting, ~92 KB gzipped JS
-
-<p>
-  <img src="https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react&logoColor=20232a" alt="React">
-  <img src="https://img.shields.io/badge/Vite-5.4-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/React_Router-6-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router">
-  <img src="https://img.shields.io/badge/Styling-CSS_Tokens-264DE4?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License">
-</p>
-
-<br>
-
-## More Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Cinevood](https://cinenvood.onrender.com/) | Movie review platform with admin management | TypeScript |
-| [Weather App](https://weather-j82w.onrender.com/) | Real-time weather tracking | JavaScript |
-| [Harsh-Multi-tools-](https://github.com/Dev-Harshupadhyay/Harsh-Multi-tools-) | A small multi-tool utility site | HTML |
-| [my-telegram-bot](https://github.com/Dev-Harshupadhyay/my-telegram-bot) | Telegram automation bot | Python |
-| [Ping-bot-](https://github.com/Dev-Harshupadhyay/Ping-bot-) | Uptime / ping utility bot | Python |
-| [pro.html](https://github.com/Dev-Harshupadhyay/pro.html) | Personal “about me” page | HTML |
-
-<sub>Descriptions come from what's public on [github.com/Dev-Harshupadhyay](https://github.com/Dev-Harshupadhyay) — repos without a description are left out rather than invented.</sub>
-
-<br>
-
-## Technologies I Work With / Explore
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mongodb,git,github&theme=dark" alt="tech stack icons"/>
-</p>
-
-<br>
-
-## `harsh@github ~ $ whoami`
-
-<img src="./harsh-terminal.svg" alt="Harsh Upadhyay terminal whoami card" width="100%">
-
-<table>
-<tr>
-<td><img src="./harsh-id-card.svg" alt="Harsh Upadhyay developer ID card"></td>
-</tr>
-</table>
-
-<br>
-
-## `harsh@github ~ $ ./activity.sh`
-
-**GitHub Stats & Languages**
-
-<p>
-  <img src="./harsh-stats.svg" alt="GitHub stats for Harsh Upadhyay" width="48%">
-  <img src="./harsh-languages.svg" alt="Top languages for Harsh Upadhyay" width="48%">
-</p>
-
-**Contribution Heatmap**
-
-<img src="./harsh-heatmap.svg" alt="Harsh Upadhyay contribution heatmap" width="100%">
-
-**Milestones**
-
-<img src="./harsh-trophies.svg" alt="Milestones for Harsh Upadhyay" width="100%">
-
-**Contribution Snake**
-
-<img src="./harsh-snake.svg" alt="Contribution snake" width="100%">
-
-<sub>Every graphic above is a self-contained SVG rendered from real data by the scripts in
-<code>/scripts</code> — no paid stats service, no exposed tokens.
-<code>update-profile-art.yml</code> refreshes the heatmap, stats, languages and milestone cards
-daily; <code>snake.yml</code> refreshes the contribution snake using the open-source
-<code>Platane/snk</code> action.</sub>
-
-<br>
-
-### How this stays up to date
-
-- `harsh-heatmap.svg`, `harsh-stats.svg`, `harsh-languages.svg` and `harsh-trophies.svg` are
-  regenerated daily at ~06:17 UTC by `.github/workflows/update-profile-art.yml`, which runs the
-  scripts in `/scripts` and commits the result. No personal access token is required — it scrapes
-  the public contributions page and uses the automatic `GITHUB_TOKEN` Actions already provides.
-- `harsh-snake.svg` is regenerated daily by `.github/workflows/snake.yml` using the open-source
-  `Platane/snk` action.
-- `harsh-banner.svg`, `harsh-banner-light.svg`, `harsh-id-card.svg` and `harsh-terminal.svg` are
-  static — edit them directly (they're plain SVG/text) whenever your bio or focus changes.
-- To trigger any workflow once by hand, use the **Actions** tab → select the workflow →
-  **Run workflow**.
-
-<br>
-
-## `harsh@github ~ $ ./connect.sh`
-
-<p>
-  <a href="https://github.com/Dev-Harshupadhyay"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=36BCF7" alt="GitHub"></a>
-  <a href="https://github.com/Dev-Harshupadhyay/Chhath-puja"><img src="https://img.shields.io/badge/Chhath%20Geet-181717?style=for-the-badge&logo=github&logoColor=white" alt="Chhath Geet"></a>
-  <a href="https://t.me/TIMEPASSQ_BOT"><img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot"></a>
-</p>
-
-<br>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 ---
 
 <div align="center">
+  
+### ⭐ "Code is like humor. When you have to explain it, it's bad." ⭐
 
-**Build. Break. Understand. Improve.**
-
-<sub>This profile is hand-maintained — no paid services, no fake metrics.</sub>
-
+<br>
+**Thanks for visiting! Let's build something amazing together! 🚀**
 </div>
