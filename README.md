@@ -12,11 +12,11 @@
 
 ## 👋 About Me
 
-I'm **Harsh Upadhyay** — a BCA student and full-stack developer from India. I made this GitHub account in **January 2025**, and it's been my workshop ever since: **38 public repositories** and **1,076 contributions** in 2026 alone.
+I'm **Harsh Upadhyay** — a **BCA student** and full-stack developer from India. I made this GitHub account in **January 2025**, and it's been my workshop ever since: **38 public repositories** and **1,076 contributions** in 2026 alone.
 
-I'm not the kind of developer who collects finished tutorials. I like building things that actually open in a browser and do something — a movie site someone can browse, a weather app someone can check before leaving the house, a Telegram bot that quietly automates a boring job. If it runs at a public URL and a real person can use it, I'm interested.
+Most of that work lives on the front end — **18 HTML, 6 CSS, 5 JavaScript, 5 Python and 3 TypeScript** repos — because I like things you can open in a tab and actually use. A movie site someone can browse, a weather app someone checks before leaving the house, a Telegram bot that quietly automates a boring job. If it runs at a public URL and a real person can use it, I'm interested.
 
-Most of what I know, I learned by breaking things and then having to fix them. That's still how I work: build it badly, understand why it's bad, rebuild it properly.
+I'm not the kind of developer who collects finished tutorials. Most of what I know, I learned by breaking things and then having to fix them. That's still how I work: build it badly, understand why it's bad, rebuild it properly.
 
 > ### 💭 "Code is like humor. When you have to explain it, it's bad."
 
@@ -88,7 +88,8 @@ Most of what I know, I learned by breaking things and then having to fix them. T
 
 <h3><code>harsh@github ~ $ ./connect.sh</code></h3>
 
-<a href="https://pmharshuu.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=36BCF7" alt="Portfolio" /></a>
+<a href="https://new-profotilo-flame.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=36BCF7" alt="Portfolio" /></a>
+<a href="https://pmharshuu.netlify.app"><img src="https://img.shields.io/badge/Archive-000000?style=for-the-badge&logo=netlify&logoColor=36BCF7" alt="Old Portfolio" /></a>
 <a href="https://github.com/Dev-Harshupadhyay/Chhath-puja"><img src="https://img.shields.io/badge/Chhath%20Geet-000000?style=for-the-badge&logo=react&logoColor=36BCF7" alt="Chhath Geet" /></a>
 <a href="https://t.me/TIMEPASSQ_BOT"><img src="https://img.shields.io/badge/Telegram_Bot-000000?style=for-the-badge&logo=telegram&logoColor=36BCF7" alt="Telegram Bot" /></a>
 
@@ -143,5 +144,35 @@ I'm always up for talking about web development, automation, or a project that's
 <br>
 
 **Thanks for visiting — let's build something amazing together.** 🚀
+
+</div>
+
+<br>
+
+<div align="center">
+
+────────────────────────────────
+
+<h3>
+  <a href="https://new-profotilo-flame.vercel.app" target="_blank" rel="noopener noreferrer">
+    ✨ &nbsp;M A D E &nbsp;B Y&nbsp; <b>H A R S H</b>&nbsp; ✨
+  </a>
+</h3>
+
+<a href="https://new-profotilo-flame.vercel.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/new--profotilo--flame-000000?style=for-the-badge&logo=vercel&logoColor=36BCF7" alt="Portfolio — new-profotilo-flame" />
+</a>
+&nbsp;
+<a href="https://github.com/Dev-Harshupadhyay" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=36BCF7" alt="GitHub" />
+</a>
+
+<br><br>
+
+<sub>BCA student · Full-stack developer · Building things on the web, one commit at a time.</sub>
+
+<br>
+
+<sub>Crafted with code, curiosity, and a lot of terminal hours.</sub>
 
 </div>
