@@ -26,10 +26,10 @@ I'm not the kind of developer who collects finished tutorials. Most of what I kn
 
 | Project | What it is | Live |
 |:---|:---|:---:|
+| **Nostalgic Music Player** | A nostalgic Indian music platform — old Hindi classics (90s, 2000s, evergreen, retro), singles, and **New & Trending** from **live YouTube search**, plus Chhath Puja geet and Bhojpuri favourites. One persistent YouTube player with queue, shuffle, repeat, favourites and **lock-screen controls**. **Nothing invented** — every title, artist and duration comes straight from YouTube. Built with Next.js 15 + React 19 + TypeScript. | [nostalgic-xwa6.onrender.com](https://nostalgic-xwa6.onrender.com) |
+| **RailKit** | An Indian Railways toolkit — **PNR status**, live **train running status**, **seat availability** and **fares** through one clean API playground built on the RapidAPI IRCTC endpoints. | [rail-weld.vercel.app](https://rail-weld.vercel.app) |
 | **Chhath Geet** | A devotional music platform for Chhath Puja — 106 verified folk songs, a real player with queue, repeat and lock-screen controls, 37 artists and 12 curated playlists. Built with Vite + React. | [Repo](https://github.com/Dev-Harshupadhyay/Chhath-puja) |
 | **Cinevood** | A movie review platform with a full admin panel — browse, review and manage film data end to end. | [cinenvood.onrender.com](https://cinenvood.onrender.com) |
-| **Weather App** | Real-time weather tracking with a clean, fast interface. | [weather-j82w.onrender.com](https://weather-j82w.onrender.com) |
-| **@TIMEPASSQ_BOT** | My personal Telegram bot for media handling and task automation. | [@TIMEPASSQ_BOT](https://t.me/TIMEPASSQ_BOT) |
 
 <br>
 
@@ -48,6 +48,31 @@ I'm not the kind of developer who collects finished tutorials. Most of what I kn
 <br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mongodb,github,git,vercel" alt="tech stack icons" />
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 
 </div>
 
