@@ -26,10 +26,10 @@ I'm not the kind of developer who collects finished tutorials. Most of what I kn
 
 | Project | What it is | Live |
 |:---|:---|:---:|
-| **Nostalgic Music Player** | A nostalgic Indian music platform — old Hindi classics (90s, 2000s, evergreen, retro), singles, and **New & Trending** from **live YouTube search**, plus Chhath Puja geet and Bhojpuri favourites. One persistent YouTube player with queue, shuffle, repeat, favourites and **lock-screen controls**. **Nothing invented** — every title, artist and duration comes straight from YouTube. Built with Next.js 15 + React 19 + TypeScript. | [nostalgic-xwa6.onrender.com](https://nostalgic-xwa6.onrender.com) |
-| **RailKit** | An Indian Railways toolkit — **PNR status**, live **train running status**, **seat availability** and **fares** through one clean API playground built on the RapidAPI IRCTC endpoints. | [rail-weld.vercel.app](https://rail-weld.vercel.app) |
-| **Chhath Geet** | A devotional music platform for Chhath Puja — 106 verified folk songs, a real player with queue, repeat and lock-screen controls, 37 artists and 12 curated playlists. Built with Vite + React. | [Repo](https://github.com/Dev-Harshupadhyay/Chhath-puja) |
-| **Cinevood** | A movie review platform with a full admin panel — browse, review and manage film data end to end. | [cinenvood.onrender.com](https://cinenvood.onrender.com) |
+| **Nostalgic Music Player** | A nostalgic Indian music platform — old Hindi classics (90s, 2000s, evergreen, retro), singles, and **New & Trending** from **live YouTube search**, plus Chhath Puja geet and Bhojpuri favourites. One persistent YouTube player with queue, shuffle, repeat, favourites and **lock-screen controls**. **Nothing invented** — every title, artist and duration comes straight from YouTube. Built with Next.js 15 + React 19 + TypeScript. | [**Live**](https://nostalgic-xwa6.onrender.com) |
+| **RailKit** | An Indian Railways toolkit — **PNR status**, live **train running status**, **seat availability** and **fares** through one clean API playground built on the RapidAPI IRCTC endpoints. | [**Live**](https://rail-weld.vercel.app) |
+| **Chhath Geet** | A devotional music platform for Chhath Puja — 106 verified folk songs, a real player with queue, repeat and lock-screen controls, 37 artists and 12 curated playlists. Built with Vite + React. | [**Live**](https://chhath-puja-ebon.vercel.app) · [Repo](https://github.com/Dev-Harshupadhyay/Chhath-puja) |
+| **Cinevood** | A movie review platform with a full admin panel — browse, review and manage film data end to end. | [**Live**](https://cinenvood.vercel.app) |
 
 <br>
 
